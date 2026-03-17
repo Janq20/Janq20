@@ -8,13 +8,6 @@
 
 ---
 
-### 💫 About Me
-* ⚡ Specjalizuję się w **telemetrii** Trucksbook (projekt V-SPEED).
-* 📚 Obecnie: **Kryptografia** i algorytmy sortowania/wyszukiwania.
-* 🛠 Narzędzia: **Visual Studio**, **VS Code**, **Git**, **Adobe Suite**.
-
----
-
 ### 💻 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -33,8 +26,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Janq20&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janq20&layout=compact&theme=tokyonight&count_private=true&langs_count=8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Janq20&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janq20&layout=compact&theme=tokyonight&count_private=true&langs_count=8" height="165" />
+</p>
+
+### 📈 Activity Graph (Green Wave)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Janq20&theme=react-dark&area=true&hide_border=true&color=40c463" width="100%" />
 </p>
 
 ---
