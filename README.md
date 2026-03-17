@@ -29,13 +29,6 @@
 
 ---
 
-### 📈 Aktywność 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Janq20&theme=react-dark&area=true&hide_border=true&color=40c463" width="100%" />
-</p>
-
----
-
 ### 📌 Wybrane Projekty
 
 <table width="100%">
@@ -68,7 +61,9 @@
 
 ### 🎧 Czego słucham
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=tw8sszqr0cf0bi01dg2q8eo64&cover_image=true&theme=dark" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=tw8sszqr0cf0bi01dg2q8eo64&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light" />
+  </a>
 </p>
 
 ---
